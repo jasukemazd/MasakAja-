@@ -44,7 +44,7 @@ const resepList = [
       "Tusuk ayam ke tusuk sate.",
       "Bakar hingga matang sambil oles bumbu."
     ],
-    youtube: "https://www.youtube.com/embed/a2NzpJp7cUI"
+    youtube: "https://youtu.be/M-iyKEXi6-M?si=DvVoB3YOUApMecEM"
   },
   {
     nama: "Rendang",
@@ -213,3 +213,4 @@ function bukaDetail(r) {
     app.classList.remove("hidden");
   });
 }
+
