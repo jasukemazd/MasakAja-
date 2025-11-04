@@ -33,7 +33,7 @@ const resepList = [
     nama: "Sate Ayam",
     kategori: "Makanan Utama",
     img: "sateayam.jpg",
-    wiki: "https://id.wikipedia.org/wiki/Sate",
+    wiki: "https://youtu.be/M-iyKEXi6-M",
     bahan: [
       "500g daging ayam potong dadu",
       "Tusuk sate secukupnya",
@@ -213,4 +213,5 @@ function bukaDetail(r) {
     app.classList.remove("hidden");
   });
 }
+
 
